@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h2 align="left">About me</h2>
-Hi, I'm Phí Quang Biển, a computer nerd from Vietnam.
+Hi, I'm a software engineer from Viet Nam
 I use Arch with Hyprland, btw
 
 ## My skills
